@@ -41,12 +41,9 @@ body{
 
 .turn span{
     font-size: larger;
-}
-#O{
-    background-color: #A663CC;
     padding: 5px 10px;
-    border-radius: 5px;
 }
+
 
 .board{
     width:50%;
