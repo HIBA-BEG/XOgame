@@ -1,2 +1,2 @@
-# Our first SNAKEgame
+# Our first XOgame
 
